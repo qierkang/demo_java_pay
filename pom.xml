@@ -58,7 +58,7 @@
 		<dependency><!-- 二维码生成 -->
 			<groupId>com.google.zxing</groupId>
 			<artifactId>javase</artifactId>
-			<version>3.2.1</version>
+			<version>3.4.1</version>
 		</dependency>
 		<dependency> <!-- http客户端 -->
 			<groupId>com.squareup.okhttp3</groupId>
